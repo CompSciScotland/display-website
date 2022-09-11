@@ -5,10 +5,10 @@
 </script>
 
 <Title/>
-<section class=" body-font">
+<section class="body-font">
   <div class="container mx-auto flex px-5 py-8 items-center justify-center flex-col">
-      <div class="my-8">
+
         <Drive/>
-      </div>
+
     </div>
 </section>
