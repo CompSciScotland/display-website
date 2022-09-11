@@ -1,1 +1,1 @@
-<h1 class="font-medium leading-tight text-5xl mt-0 mb-2 text-center">CSinabox</h1>
+<h1 class="leading-tight mt-0 mb-2 text-center text-7xl font-bold">CSinabox</h1>
